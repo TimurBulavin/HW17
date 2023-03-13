@@ -7,8 +7,5 @@ public:
     ~Book();
 
     const std::string& getSummary() const;
-
-private:
-    std::string summary;
 };
 

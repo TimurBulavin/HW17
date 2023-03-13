@@ -134,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h" />
+    <ClInclude Include="Exeption.h" />
     <ClInclude Include="Library.h" />
     <ClInclude Include="Magazine.h" />
     <ClInclude Include="Publication.h" />
